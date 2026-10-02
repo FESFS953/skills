@@ -1,4 +1,4 @@
----
+---检查Windows的完整性
 name: grill-me
 description: A relentless interview to sharpen a plan or design.
 disable-model-invocation: true
